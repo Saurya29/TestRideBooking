@@ -79,7 +79,3 @@ This app can be deployed to Vercel, Netlify, or any platform supporting Next.js:
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).</content>
-<parameter name="filePath">E:/Downloads/TestRideBooking/README.md
